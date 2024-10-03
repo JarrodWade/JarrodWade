@@ -23,3 +23,9 @@
     - Exploring Modern Data Tools / Platforms (dbt, Airflow, Databricks, Snowflake)
     - Everything Cloud. There's always more to learn when it comes to cloud. AWS is what I know best, but I'm always wanting to explore Azure and GCP more as well
     - Evolving Data Architecture best practices
+
+Always looking to connect with folks who enjoy similar stuff - to discuss new opportunities, challenges, or whatever! 👍
+
+**Email**: jarrod.wadej@gmail.com
+
+https://www.linkedin.com/in/jarrod-wade/
