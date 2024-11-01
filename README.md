@@ -1,6 +1,6 @@
 ## Hi there, I'm Jarrod 👋
 
-- I'm currently working as a Data Analyst, but I've been intrigued by Data Engineering lately. I'm always excited to learn cool new stuff, so this is where I keep my fun personal projects. 
+- I'm currently working as a Data Analyst, but I've been intrigued by Data Engineering lately. I'm always excited to learn cool new stuff, so this is where I keep my personal projects. 
 
 ## Certifications 📚:
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f676d316-c626-4c69-81ec-7dadc9646478/public_url)
