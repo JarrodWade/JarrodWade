@@ -17,7 +17,7 @@
     - Tech used: Airflow, Docker, AWS S3, Python, Beautiful Soup (web scraping), and Google Apps API
      
 - :pilot: [OpenSky-Flight-Data-Pipeline](https://github.com/JarrodWade/opensky-flight-data-pipeline) (In Progress...) :earth_asia:
-  - Planning a trip to Japan :japan:, so I wanted to do a fun analysis of flights from US <--> Japan using the OpenSky API. I am thinking of experimenting with Kafka / streaming on this one  (more to come.)
+  - Planning a trip to Japan :japan:, so I wanted to do a near-real time analysis of flights from US <--> Japan using the OpenSky API. I am thinking of experimenting with Kafka / streaming on this one  (more to come.)
 
 - 🌱 I'm currently learning: 
     - Exploring Modern Data Tools / Platforms (dbt, Airflow, Databricks, Snowflake)
