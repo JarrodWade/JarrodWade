@@ -9,15 +9,15 @@
 
 ## Projects:
 - :man_health_worker: [FDA-Adverse-Events-Pipeline](https://github.com/JarrodWade/fda-adverse-events-pipeline) 💊
-  - 🏥 Fun project looking at Adverse Events as reported to the FDA, specifically focusing on statin drugs.
-    - Tech used: dbt, Airflow, Snowflake, AWS S3, Astronomer Cosmos, Python
+  - 🏥 Fun project looking at Adverse Events as reported to the FDA, specifically focusing on statin drugs (and potentially associated effects).
+    - Tech used: dbt, Airflow, Snowflake, AWS S3, Astronomer Cosmos, Python, SQL
      
 - 📜 [Planning-Center-Data-Pipeline](https://github.com/JarrodWade/planning-center-data-pipeline) 😄
-  - This one actually gets used every month to support a data analytics project in my personal community. This project started with automating 🤖 some repetitive monthly tasks and quickly evolved into a mini-DE project!
+  - This one actually gets used every month to support a data analytics project in my own personal community. This project started with automating some repetitive monthly tasks with Python and quickly evolved into a mini-DE project.
     - Tech used: Airflow, Docker, AWS S3, Python, Beautiful Soup (web scraping), and Google Apps API
      
 - :pilot: [OpenSky-Flight-Data-Pipeline](https://github.com/JarrodWade/opensky-flight-data-pipeline) (In Progress...) :earth_asia:
-  - Planning a trip to Japan :japan:, so I wanted to do a fun analysis of flights from US <--> Japan using the OpenSky API. I am thinking of experimenting with Kafka / streaming on this one  (more to come 😉)
+  - Planning a trip to Japan :japan:, so I wanted to do a fun analysis of flights from US <--> Japan using the OpenSky API. I am thinking of experimenting with Kafka / streaming on this one  (more to come.)
 
 - 🌱 I'm currently learning: 
     - Exploring Modern Data Tools / Platforms (dbt, Airflow, Databricks, Snowflake)
