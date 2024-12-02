@@ -11,6 +11,10 @@
 - :man_health_worker: [FDA-Adverse-Events-Pipeline](https://github.com/JarrodWade/fda-adverse-events-pipeline) 💊
   - 🏥 Fun project looking at Adverse Events as reported to the FDA, specifically focusing on statin drugs (and potentially associated effects).
     - Tech used: dbt, Airflow, Snowflake, AWS S3, Astronomer Cosmos, Python, SQL
+   
+- :video_game: [Video-Game-PySpark](https://github.com/JarrodWade/video-game-pyspark) (In Progress...) :video_game:
+  - Project to practice PySpark skills, specifically looking at video game data using the RAWG API.
+    - Tech used: PySpark, MinIO, Apache Iceberg
      
 - 📜 [Planning-Center-Data-Pipeline](https://github.com/JarrodWade/planning-center-data-pipeline) 😄
   - This one actually gets used every month to support a data analytics project in my own personal community. This project started with automating some repetitive monthly tasks with Python and quickly evolved into a mini-DE project.
