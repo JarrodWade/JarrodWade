@@ -14,7 +14,7 @@
    
 - :video_game: [Video-Game-PySpark](https://github.com/JarrodWade/video-game-pyspark) (In Progress...) :video_game:
   - Project to practice PySpark skills, specifically looking at video game data using the RAWG API.
-    - Tech used: PySpark, MinIO, Apache Iceberg
+    - Tech used: PySpark, AWS S3, Jupyter Notebooks
      
 - 📜 [Planning-Center-Data-Pipeline](https://github.com/JarrodWade/planning-center-data-pipeline) 😄
   - This one actually gets used every month to support a data analytics project in my own personal community. This project started with automating some repetitive monthly tasks with Python and quickly evolved into a mini-DE project.
